@@ -11,7 +11,7 @@ Este projeto é uma aplicação React para gerenciamento de livros, desenvolvido
 Siga os passos abaixo para rodar a aplicação localmente:
 
 1. Clone o repositório git ou baixe o arquivo zip e extraia a pasta:
-git clone https://github.com/RicardoHenriqueeee/projeto-pucrs-fase1.git
+git clone https://github.com/RicardoHenriqueeee/Projeto-Pucrs-Fase-1.git
 
 2. Instale as dependências:
 Entre na pasta do projeto, clique no caminho da pasta e digite cmd para entrar no diretório, logo após execute esse comando:
